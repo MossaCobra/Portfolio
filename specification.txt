@@ -1,0 +1,21 @@
+HTML Tags Used
+1. <html>
+2. <body>
+3. <header>
+4. <nav>
+5. <section>
+6. <h1>
+7. <h2>
+8. <p>
+9. <a>
+10. <div>
+
+CSS Properties Used
+1. margin
+2. padding
+3. background-color
+4. font-size
+5. border-radius
+
+JavaScript and Bootstrap Usage
+JavaScript was chosen to toggle the sidebar visibility to enhance user interactivity and improve navigation experience, while Bootstrap was selected for its responsive grid system, ensuring the website maintains a visually appealing layout across different devices.
